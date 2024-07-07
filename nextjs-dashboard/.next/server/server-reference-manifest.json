@@ -1,4 +1,37 @@
 {
-  "node": {},
+  "node": {
+    "0c9f14e920d5af19640fde8eaca2df7101f758ed": {
+      "workers": {
+        "app/login/page": "(action-browser)/./node_modules/.pnpm/next@13.5.6_@babel+core@7.24.6_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CUSER-PC%5C%5CDesktop%5C%5CfullStack%5C%5CwebFullStack%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22updateInvoice%22%2C%22createInvoice%22%2C%22deleteInvoice%22%2C%22authenticate%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/login/page": "action-browser"
+      }
+    },
+    "c891f9a42d18a37ec8c3fd4bd3258a695fc511bf": {
+      "workers": {
+        "app/login/page": "(action-browser)/./node_modules/.pnpm/next@13.5.6_@babel+core@7.24.6_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CUSER-PC%5C%5CDesktop%5C%5CfullStack%5C%5CwebFullStack%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22updateInvoice%22%2C%22createInvoice%22%2C%22deleteInvoice%22%2C%22authenticate%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/login/page": "action-browser"
+      }
+    },
+    "1926fbf809fcae63cb7e5d951c8f44e68f980351": {
+      "workers": {
+        "app/login/page": "(action-browser)/./node_modules/.pnpm/next@13.5.6_@babel+core@7.24.6_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CUSER-PC%5C%5CDesktop%5C%5CfullStack%5C%5CwebFullStack%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22updateInvoice%22%2C%22createInvoice%22%2C%22deleteInvoice%22%2C%22authenticate%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/login/page": "action-browser"
+      }
+    },
+    "acab720aae74d99868119bdc723b793ad364d38b": {
+      "workers": {
+        "app/login/page": "(action-browser)/./node_modules/.pnpm/next@13.5.6_@babel+core@7.24.6_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CUSER-PC%5C%5CDesktop%5C%5CfullStack%5C%5CwebFullStack%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22updateInvoice%22%2C%22createInvoice%22%2C%22deleteInvoice%22%2C%22authenticate%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/login/page": "action-browser"
+      }
+    }
+  },
   "edge": {}
 }
